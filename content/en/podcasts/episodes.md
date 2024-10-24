@@ -1,6 +1,6 @@
 +++
 title = "Episodes"
-linkTitle = "Episodes"
+linkTitle = "Podcast Episodes"
 weight = 2
 type = "docs"
 description = '''

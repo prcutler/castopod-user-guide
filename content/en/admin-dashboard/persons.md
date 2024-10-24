@@ -4,6 +4,6 @@ linkTitle = "Manage People"
 weight = 3
 type = "docs"
 description = '''
-The administrative dashboard in Castopod
+Manage people in Castopod
 '''
 +++

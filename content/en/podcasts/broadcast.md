@@ -1,6 +1,6 @@
 +++
 title = "Broadcast"
-linkTitle = "Broadcast"
+linkTitle = "Broadcast Links"
 weight = 4
 type = "docs"
 description = '''

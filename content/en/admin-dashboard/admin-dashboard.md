@@ -1,6 +1,6 @@
 +++
 title = "Admin Dashboard"
-linkTitle = "Admin Dashboard"
+linkTitle = "Administrator Dashboard"
 weight = 1
 type = "docs"
 description = '''

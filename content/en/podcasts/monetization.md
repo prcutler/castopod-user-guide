@@ -1,6 +1,6 @@
 +++
 title = "Monetization"
-linkTitle = "Monetization"
+linkTitle = "Podcast Monetization"
 weight = 5
 type = "docs"
 description = '''
