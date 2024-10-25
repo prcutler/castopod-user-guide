@@ -2,8 +2,8 @@
 
 The Castopod User Guide 
 
-Welcome to the Castopod user guide!  This guide shows you how to set up your instance and create and publish
-your podcast using [Castopod](https://www.castopod.org).
+Welcome to the Castopod user guide!  This guide shows you how to set up your instance, import or create 
+a podcast, and publish your podcast episodes using [Castopod](https://www.castopod.org).
 
 For developer documentation visit [castopod.org](https://docs.castopod.org).
 
