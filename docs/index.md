@@ -5,18 +5,31 @@ The Castopod User Guide
 Welcome to the Castopod user guide!  This guide shows you how to set up your instance, import or create 
 a podcast, and publish your podcast episodes using [Castopod](https://www.castopod.org).
 
-For developer documentation visit [castopod.org](https://docs.castopod.org).
+For developer documentation visit [docs.castopod.org](https://docs.castopod.org).
 
-## Commands
+## What is Castopod?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Castopod is an open source self-hosted podcast platform.  Castopod allows you to engage and interact with your 
+audience with its built-in social network connected to the Fediverse.
 
-## Project layout
+## Castopod Features
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Publish your episodes using RSS
+  * Connect to Apple Podcasts, YouTube Music, Podcast Index and more using the built-in RSS feed
+* Podcasting 2.0 features including transcripts, persons, locations, chpaters, funding, and more
+* Built-in social network connected to the Fediverse allowing you to create posts and comment on episodes. 
+Mastodon users can follow your podcast, leave a comment, and like posts.
+* Built-in analytics that are GDPR / CCPA / LGPD compliant
+* Import your existing podcast into Castopod
+* Marketing tools built-in including SEO, soundbites, videoclips, and and an embeddable player that can 
+be used on any website
+* Host unlimited podcasts
+* Add additional users and assign them roles
+* Monetize your podcasut using funding links, listen-to-click ads, premium podcasts, and value4value.
+
+## About the Castopod User Guide
+
+The Castopod User Guide is a community project  created by [Paul Cutler](https://hachyderm.io/@prcutler) and 
+is not affiliated with the official Castopod project.
+
+
