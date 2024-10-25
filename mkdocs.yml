@@ -1,0 +1,53 @@
+site_name: Castopod User Guide
+site_url: https://prcutler.github.io/castopod-user-guide
+theme:
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.footer
+
+repo_url: https://github.com/prcutler/castopod-user-guide
+
+features:
+  - navigation.instant
+  - navigation.instant.prefetch
+  - navigation.tracking
+  - navigation.sections
+  - navigation.path
+  - navigation.indexes
+  - navigation.top
+  - search.suggest
+  - navigation.footer
+
+plugins:
+  - social
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/gitlab
+      link: https://code.castopod.org
+    - icon: fontawesome/brands/mastodon
+      link: https://hachyderm.io/@prcutler
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/2tBBA4Nf2P
