@@ -25,19 +25,17 @@ theme:
 
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - navigation.footer
 
 repo_url: https://github.com/prcutler/castopod-user-guide
-
-features:
-  - navigation.instant
-  - navigation.instant.prefetch
-  - navigation.tracking
-  - navigation.sections
-  - navigation.path
-  - navigation.indexes
-  - navigation.top
-  - search.suggest
-  - navigation.footer
 
 plugins:
   - social
