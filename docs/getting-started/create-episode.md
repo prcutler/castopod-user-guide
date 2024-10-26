@@ -1,0 +1,55 @@
+# Create your first episode
+
+To add an episode to your podcast, choose Podcasts -> All podcasts from your instance management left hand sidebar.
+Then choose Podcast dashboard and press the Add an episode button in the upper right hand corner and fill out the 
+following fields.
+
+## Episode Info
+
+### Audio file
+Press the Choose File button to select the audio file to upload to Castopod.  The audio file must be an mp3 or m4a 
+file and cannot be larger than 512 megabytes.
+
+### Episode cover 
+You can optionally add a different podcast cover / artwork.  Press Choose File and select an image from your computer 
+that must be at least 1400px wide and tall and no larger than 3000px wide and tall.  If you do not choose an 
+episode cover, your default podcast artwork will be used.
+
+### Title
+
+Enter the name for your new episode.  Do not add the season or episode number in the Title field.  Choose a clear 
+and concise episode name to help your listeners.
+
+### Permalink
+
+The permalink is the link to the public episode page.  This will be automatically filled out based on the title 
+you entered above.  If you wish to have a different permalink, press the edit button to the right of the 
+displayed permalink.
+
+### Season and Episode
+
+You can optionally add a season and / or episode number to your episode.  
+
+## Show Notes
+
+Describe your episode in detail.  You can use up to 4000 characters and you can use Markdown to style your show 
+notes.  You can expand the text box by pressing and holding the bottom right corner of the text box.
+
+When your show notes are complete, press Preview to view how your show notes will be displayed.
+
+## Additional Files
+
+### Transcripts
+
+You can add a transcript to your episode by choosing a file in SRT or VTT format to upload.  Transcripts will be 
+shown in a tab on the episode page and some podcast apps such as Apple Podcasts can display the transcript.  
+Transcripts help with users who may have a hearing disability and can also help with search engine optimization.
+
+### Chapters
+
+You can optionally upload a chapters file in JSON format.  To learn more about chapters and for an example of the 
+correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace/blob/main/chapters/jsonChapters.md).
+
+When complete, press the Create episode button at the bottom of the page.  Your RSS feed will be automatically 
+updated with your episode information and listeners who subscribe will be notified of a new episode.  Congratulations 
+on publishing your first episode!
