@@ -43,6 +43,8 @@ plugins:
 
 extra:
   social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prcutler/castopod-user-guide
     - icon: fontawesome/brands/gitlab
       link: https://code.castopod.org
     - icon: fontawesome/brands/mastodon
