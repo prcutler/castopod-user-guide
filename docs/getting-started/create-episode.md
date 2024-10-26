@@ -50,6 +50,8 @@ Transcripts help with users who may have a hearing disability and can also help 
 You can optionally upload a chapters file in JSON format.  To learn more about chapters and for an example of the 
 correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace/blob/main/chapters/jsonChapters.md).
 
+## Publish your episode
+
 When complete, press the Create episode button at the bottom of the page.  Your RSS feed will be automatically 
 updated with your episode information and listeners who subscribe will be notified of a new episode.  Congratulations 
 on publishing your first episode!
