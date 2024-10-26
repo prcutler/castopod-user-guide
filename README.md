@@ -6,6 +6,8 @@ User guide and documentation for [Castopod](https://www.castopod.org), the open 
 [Castopod](https://www.castopod.org) is an open source self-hosted podcast platform.  Castopod allows you to engage 
 and interact with your audience with its built-in social network connected to the Fediverse.
 
+You can view the [Castopod User Guide here](https://prcutler.github.io/castopod-user-guide/).
+
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify the 
