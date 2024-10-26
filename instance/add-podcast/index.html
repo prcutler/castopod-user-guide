@@ -22,7 +22,7 @@
     
     
       
-        <title>Adding a podcast - Castopod User Guide</title>
+        <title>Create or import a podcast - Castopod User Guide</title>
       
     
     
@@ -57,7 +57,7 @@
       
         <meta  property="og:type"  content="website" >
       
-        <meta  property="og:title"  content="Adding a podcast - Castopod User Guide" >
+        <meta  property="og:title"  content="Create or import a podcast - Castopod User Guide" >
       
         <meta  property="og:description"  content="None" >
       
@@ -73,7 +73,7 @@
       
         <meta  name="twitter:card"  content="summary_large_image" >
       
-        <meta  name="twitter:title"  content="Adding a podcast - Castopod User Guide" >
+        <meta  name="twitter:title"  content="Create or import a podcast - Castopod User Guide" >
       
         <meta  name="twitter:description"  content="None" >
       
@@ -100,7 +100,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#adding-a-podcast" class="md-skip">
+        <a href="#create-or-import-a-podcast" class="md-skip">
           Skip to content
         </a>
       
@@ -136,7 +136,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Adding a podcast
+              Create or import a podcast
             
           </span>
         </div>
@@ -528,7 +528,7 @@
           
   
   <span class="md-ellipsis">
-    Adding a podcast
+    Create or import a podcast
   </span>
   
 
@@ -539,7 +539,7 @@
         
   
   <span class="md-ellipsis">
-    Adding a podcast
+    Create or import a podcast
   </span>
   
 
@@ -773,6 +773,30 @@
       Import an existing podcast
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Import an existing podcast">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#import-the-podcast" class="md-nav__link">
+    <span class="md-ellipsis">
+      Import the podcast
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#podcast-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      Podcast information
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1326,6 +1350,30 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Import an existing podcast">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#import-the-podcast" class="md-nav__link">
+    <span class="md-ellipsis">
+      Import the podcast
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#podcast-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      Podcast information
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -1346,7 +1394,7 @@
   
 
 
-<h1 id="adding-a-podcast">Adding a podcast</h1>
+<h1 id="create-or-import-a-podcast">Create or import a podcast</h1>
 <p>You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.</p>
 <p>From the left hand navigation sidebar, press the <code>+</code> sign to the right of Podcasts to create your first podcast.</p>
 <h2 id="podcast-identity">Podcast Identity</h2>
@@ -1417,6 +1465,19 @@ know there will not be new episodes.</p>
 <h2 id="import-an-existing-podcast">Import an existing podcast</h2>
 <p>When importing a podcast, make sure you own the rights for this podcast before importing it. 
 Copying and broadcasting a podcast without the proper rights is piracy and is liable to prosecution.</p>
+<h3 id="import-the-podcast">Import the podcast</h3>
+<p>To import a podcast, enter the podcast's Feed URL.  The feed must be in XML or RSS format.  You may want to validate 
+the feed to make sure there are no errors in the RSS or XML feed prior to importing as errors may cause the import 
+to fail.  One popular feed validator is <a href="https://www.castfeedvalidator.com">Cast Feed Validator</a> from 
+Blubrry Podcasting.</p>
+<h3 id="podcast-information">Podcast information</h3>
+<p>Enter the handle for your podcast.  This will be part of the URL for others to interact with your podcast on the 
+Fediverse.  It will be yourdomain.com/@nameofyourpodcast.</p>
+<p>Choose the language your podcast is recorded in from the drop down box.</p>
+<p>Lastly, choose the Category of your podcast, such as Sports, Technology, Arts, etc.</p>
+<p>When complete, click Add import to queue.  You will then be redirected to a Podcast imports page to view the status 
+of the import.  You can refresh the page to see the status of the import including the import duration and how many 
+episodes were imported.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>If your import times out, check your <code>max_execution_time</code> in your <code>PHP.ini</code> file.  You may need to increase it 
