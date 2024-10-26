@@ -205,6 +205,8 @@
         </button>
       </nav>
       
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
@@ -333,18 +335,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
+  <a href="#what-is-castopod" class="md-nav__link">
     <span class="md-ellipsis">
-      Commands
+      What is Castopod?
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
+  <a href="#castopod-features" class="md-nav__link">
     <span class="md-ellipsis">
-      Project layout
+      Castopod Features
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-the-castopod-user-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      About the Castopod User Guide
     </span>
   </a>
   
@@ -366,16 +377,25 @@
   
     
     
+      
+        
+      
     
     
-    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
         
           
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -448,18 +468,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#commands" class="md-nav__link">
+  <a href="#what-is-castopod" class="md-nav__link">
     <span class="md-ellipsis">
-      Commands
+      What is Castopod?
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#project-layout" class="md-nav__link">
+  <a href="#castopod-features" class="md-nav__link">
     <span class="md-ellipsis">
-      Project layout
+      Castopod Features
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-the-castopod-user-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      About the Castopod User Guide
     </span>
   </a>
   
@@ -484,23 +513,31 @@
 
 
 <h1 id="welcome-to-the-castopod-user-guide">Welcome to the Castopod User Guide</h1>
-<p>The Castopod User Guide </p>
 <p>Welcome to the Castopod user guide!  This guide shows you how to set up your instance, import or create 
 a podcast, and publish your podcast episodes using <a href="https://www.castopod.org">Castopod</a>.</p>
-<p>For developer documentation visit <a href="https://docs.castopod.org">castopod.org</a>.</p>
-<h2 id="commands">Commands</h2>
+<p>For developer documentation visit <a href="https://docs.castopod.org">docs.castopod.org</a>.</p>
+<h2 id="what-is-castopod">What is Castopod?</h2>
+<p>Castopod is an open source self-hosted podcast platform.  Castopod allows you to engage and interact with your 
+audience with its built-in social network connected to the Fediverse.</p>
+<h2 id="castopod-features">Castopod Features</h2>
 <ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
-<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
-<li><code>mkdocs build</code> - Build the documentation site.</li>
-<li><code>mkdocs -h</code> - Print help message and exit.</li>
+<li>Publish your episodes using RSS</li>
+<li>Connect to Apple Podcasts, YouTube Music, Podcast Index and more using the built-in RSS feed</li>
+<li>Podcasting 2.0 features including transcripts, persons, locations, chpaters, funding, and more</li>
+<li>Built-in social network connected to the Fediverse allowing you to create posts and comment on episodes. 
+Mastodon users can follow your podcast, leave a comment, and like posts.</li>
+<li>Built-in analytics that are GDPR / CCPA / LGPD compliant</li>
+<li>Import your existing podcast into Castopod</li>
+<li>Marketing tools built-in including SEO, soundbites, videoclips, and and an embeddable player that can 
+be used on any website</li>
+<li>Host unlimited podcasts</li>
+<li>Add additional users and assign them roles</li>
+<li>Monetize your podcasut using funding links, listen-to-click ads, premium podcasts, and value4value.</li>
 </ul>
-<h2 id="project-layout">Project layout</h2>
-<pre><code>mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-</code></pre>
+<h2 id="about-the-castopod-user-guide">About the Castopod User Guide</h2>
+<p>The Castopod User Guide is a community project  created by <a href="https://hachyderm.io/@prcutler">Paul Cutler</a> and 
+is not affiliated with the official Castopod project.</p>
+<p>The Castopod User Guide is licensed under a Creative Commons BY-SA 4.0 license.</p>
 
 
 
@@ -523,6 +560,12 @@ docs/
           
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
         
       </main>
       
@@ -613,7 +656,7 @@ docs/
     </div>
     
     
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.footer"], "search": "assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.footer", "navigation.instant", "navigation.instant.prefetch", "navigation.tracking", "navigation.sections", "navigation.path", "navigation.indexes", "navigation.top", "search.suggest", "navigation.footer"], "search": "assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="assets/javascripts/bundle.83f73b43.min.js"></script>
