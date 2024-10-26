@@ -97,6 +97,7 @@ You can optionally add a real or fictitious location name in this field.
 ## Advanced Parameters
 
 You can optinally toggle the following settings: 
+
 * Prevent podcast from being copied:  this locks your podcast and does not allow other podcast platforms to import 
 your podcast.  If you decide in the future to migrate away from Castopod to a new platform, this toggle will need to be
 unchecked.
