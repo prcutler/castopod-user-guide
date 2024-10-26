@@ -10,6 +10,6 @@ individual podcast.
 
 ## Ready to get started?
 
-Find out how to add your first podcast and create an episode in Get Started.  Or visit the sections below to learn 
-more about the different settings in your instance.
+Find out how to add your first podcast and create an episode in [Getting Started](../getting-started/).  
+Or visit the sections below to learn more about the different settings in your instance.
 
