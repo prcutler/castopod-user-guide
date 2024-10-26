@@ -42,6 +42,9 @@ plugins:
   - search
   - awesome-pages
 
+markdown_extensions:
+  - admonition
+
 extra:
   social:
     - icon: fontawesome/brands/github
