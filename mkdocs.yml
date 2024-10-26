@@ -32,6 +32,7 @@ theme:
     - navigation.path
     - navigation.indexes
     - navigation.top
+    - navigation.expand
     - search.suggest
     - navigation.footer
 
