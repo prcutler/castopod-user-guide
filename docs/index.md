@@ -1,7 +1,5 @@
 # Welcome to the Castopod User Guide
 
-The Castopod User Guide 
-
 Welcome to the Castopod user guide!  This guide shows you how to set up your instance, import or create 
 a podcast, and publish your podcast episodes using [Castopod](https://www.castopod.org).
 
@@ -32,4 +30,4 @@ be used on any website
 The Castopod User Guide is a community project  created by [Paul Cutler](https://hachyderm.io/@prcutler) and 
 is not affiliated with the official Castopod project.
 
-
+The Castopod User Guide is licensed under a Creative Commons BY-SA 4.0 license.
