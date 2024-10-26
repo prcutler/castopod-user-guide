@@ -1,4 +1,4 @@
-# Adding a podcast
+# Create or import a podcast
 
 You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.
 
@@ -111,6 +111,26 @@ know there will not be new episodes.
 
 When importing a podcast, make sure you own the rights for this podcast before importing it. 
 Copying and broadcasting a podcast without the proper rights is piracy and is liable to prosecution.
+
+### Import the podcast
+
+To import a podcast, enter the podcast's Feed URL.  The feed must be in XML or RSS format.  You may want to validate 
+the feed to make sure there are no errors in the RSS or XML feed prior to importing as errors may cause the import 
+to fail.  One popular feed validator is [Cast Feed Validator](https://www.castfeedvalidator.com) from 
+Blubrry Podcasting.
+
+### Podcast information
+
+Enter the handle for your podcast.  This will be part of the URL for others to interact with your podcast on the 
+Fediverse.  It will be yourdomain.com/@nameofyourpodcast.
+
+Choose the language your podcast is recorded in from the drop down box.
+
+Lastly, choose the Category of your podcast, such as Sports, Technology, Arts, etc.
+
+When complete, click Add import to queue.  You will then be redirected to a Podcast imports page to view the status 
+of the import.  You can refresh the page to see the status of the import including the import duration and how many 
+episodes were imported.
 
 !!! note
     If your import times out, check your `max_execution_time` in your `PHP.ini` file.  You may need to increase it 
