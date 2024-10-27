@@ -8,7 +8,7 @@ From the left hand navigation sidebar, press the `+` sign to the right of Podcas
 
 ### Podcast Cover
 
-To upload your podcast cover art, press the `Choose File` button and choose your covert art from your computer.  The 
+To upload your podcast cover art, press the `Choose File` button and choose your cover art from your computer.  The 
 cover art needs to be in JPG or PNG format and a minimum of 1400px wide and tall with a maximum of 3000px wide and 
 tall.
 
@@ -50,8 +50,9 @@ You can choose a second category in addition to the main category you set up.
 
 ### Parental advisory
 
-Choose if your podcast has explicit content or swearing or choose **Clean** if your podcast is suitable for everyone.  
-You can also choose to leave this category as undefined.
+Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone.  
+You can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
+opportunity to choose clean, explicit, or undefined on a per episode basis.
 
 ## Author
 
@@ -90,11 +91,12 @@ and you can still choose to make some episodes, trailers, or bonus content as fr
 
 The [Open Podcast Prefix Project](https://op3.dev) is an open source and trusted third party analytics service.  If 
 you toggle this to enabled, you will be able to view analytics for your podcast over time including the number of 
-listens over the first 7 days, 30 days, and more.
+listens over time, episode comparison charts, and more.
 
 ## Location
 
-You can optionally add a real or fictitious location name in this field.
+You can optionally add a real or fictitious location name in this field.  When creating a new episode, you also can 
+add a location to an individual episode.
 
 ## Advanced Parameters
 
