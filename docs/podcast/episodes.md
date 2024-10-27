@@ -72,7 +72,9 @@ displayed permalink.
 
 ### Season and Episode
 
-You can optionally add a season and / or episode number to your episode.  
+You can optionally add a season and / or episode number to your episode.  If you are adding a new episode and a 
+previous episode had a season and /or episode number, the field(s) will be auto filled for you.  You can leave it or 
+update with a different season and / or episode number.
 
 ## Show Notes
 
