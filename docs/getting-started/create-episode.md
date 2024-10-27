@@ -50,6 +50,10 @@ Transcripts help users who may have a hearing disability and can also help with 
 You can optionally upload a chapters file in JSON format.  To learn more about chapters and for an example of the 
 correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace/blob/main/chapters/jsonChapters.md).
 
+!!! note
+    Not all podcast players natively support chapters in JSON format.  More modern players, such as Fountain and 
+    Apple podcasts, do support chapters in JSON format.
+
 ## Publish your episode
 
 When complete, press the `Create episode` button at the bottom of the page.  You will be automatically directed to 
