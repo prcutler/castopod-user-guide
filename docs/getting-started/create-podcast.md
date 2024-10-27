@@ -49,8 +49,8 @@ You can choose a second category in addition to the main category you set up.
 ### Parental advisory
 
 Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone. You 
-can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
-opportunity to choose clean, explicit, or undefined on a per episode basis.
+can also choose to leave this category as undefined.  When [creating a new episode](../podcast/episodes.md), 
+you will also have the opportunity to choose clean, explicit, or undefined on a per episode basis.
 
 ## Author
 
@@ -93,8 +93,8 @@ listens over time, episode comparison charts, and more.
 
 ## Location
 
-You can optionally add a real or fictitious location name in this field.  When creating a new episode, you also can 
-add a location to an individual episode.
+You can optionally add a real or fictitious location name in this field.  When 
+[creating a new episode](../podcast/episodes.md) you also can add a location to an individual episode.
 
 ## Advanced Parameters
 
