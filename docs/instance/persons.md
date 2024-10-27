@@ -8,7 +8,8 @@ added to Castopod, press `All Persons`.
 
 ## Add a person
 
-To add a person, press `New Person` from the left hand sidebar and fill out the following fields:
+To add a person, press `New Person` from the left hand sidebar or press `Create a person` from the upper right hand 
+corner of the **All Persons** page and fill out the following fields:
 
 * **Avatar**: You can optionally add a picture or avatar of the person.  Press `Choose File` and upload a picture 
 from your computer.  It must be at least 400px wide and tall.
