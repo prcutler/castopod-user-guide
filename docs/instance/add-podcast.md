@@ -1,6 +1,8 @@
 # Create or import a podcast
 
-You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.
+You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.  If you are adding 
+a second podcast to Castopod, see the [Home page documentation](../website/home.md) for how that will change your 
+home page.
 
 From the left hand navigation sidebar, press the `+` sign to the right of Podcasts to create your first podcast.
 
@@ -50,9 +52,9 @@ You can choose a second category in addition to the main category you set up.
 
 ### Parental advisory
 
-Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone.  
-You can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
-opportunity to choose clean, explicit, or undefined on a per episode basis.
+Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone. You 
+can also choose to leave this category as undefined.  When [creating a new episode](../podcast/episodes.md), 
+you will also have the opportunity to choose clean, explicit, or undefined on a per episode basis.
 
 ## Author
 
@@ -73,7 +75,7 @@ You can optionally add the copyright holder in this field.
 ### Fediverse identity
 
 Enter the handle (or nickname) for your podcast.  This will allow people on Mastodon and other Fediverse services 
-to follow your podcast.  Your handle will be shown as @handle@yourdomain.com on the Fediverse.  
+to follow your podcast.  Your handle will be shown as @yourdomain.com@handle on the Fediverse.  
 
 To learn more about Fediverse integration, visit the [Fediverse documentation page](../instance/fediverse.md).
 
@@ -95,12 +97,13 @@ listens over time, episode comparison charts, and more.
 
 ## Location
 
-You can optionally add a real or fictitious location name in this field.  When creating a new episode, you also can 
-add a location to an individual episode.
+You can optionally add a real or fictitious location name in this field.  When 
+[creating a new episode](../podcast/episodes.md) you also can add a location to an individual episode.
 
 ## Advanced Parameters
 
 You can optinally toggle the following settings: 
+
 * **Prevent podcast from being copied**:  this locks your podcast and does not allow other podcast platforms to import 
 your podcast.  If you decide in the future to migrate away from Castopod to a new platform, this toggle will need to be
 unchecked.
@@ -124,7 +127,7 @@ Blubrry Podcasting.
 ### Podcast information
 
 Enter the handle for your podcast.  This will be part of the URL for others to interact with your podcast on the 
-Fediverse.  It will be yourdomain.com/@nameofyourpodcast.
+Fediverse.  It will be yourdomain.com@nameofyourpodcast.
 
 Choose the language your podcast is recorded in from the drop down box.
 
@@ -132,7 +135,7 @@ Lastly, choose the Category of your podcast, such as Sports, Technology, Arts, e
 
 When complete, click Add import to queue.  You will then be redirected to a Podcast imports page to view the status 
 of the import.  You can refresh the page to see the status of the import including the import duration and how many 
-episodes were imported.
+episodes were imported when complete.
 
 !!! note
     If your import times out, check your `max_execution_time` in your `PHP.ini` file.  You may need to increase it 
