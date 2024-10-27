@@ -74,7 +74,7 @@ You can optionally add the copyright holder in this field.
 Enter the handle (or nickname) for your podcast.  This will allow people on Mastodon and other Fediverse services 
 to follow your podcast.  Your handle will be shown as @handle@yourdomain.com on the Fediverse.  
 
-To learn more about Fediverse integration, visit the [Fediverse documentation page](../../instance/fediverse).
+To learn more about Fediverse integration, visit the [Fediverse documentation page](../../instance/fediverse.md).
 
 ### Podcast banner
 
