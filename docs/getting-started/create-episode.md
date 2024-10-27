@@ -7,17 +7,17 @@ following fields.
 ## Episode Info
 
 ### Audio file
-Press the Choose File button to select the audio file to upload to Castopod.  The audio file must be an mp3 or m4a 
+Press the `Choose File` button to select the audio file to upload to Castopod.  The audio file must be an mp3 or m4a 
 file and cannot be larger than 512 megabytes.
 
 ### Episode cover 
-You can optionally add a different podcast cover / artwork.  Press Choose File and select an image from your computer 
+You can optionally add a different podcast cover / artwork.  Press `Choose File` and select an image from your computer 
 that must be at least 1400px wide and tall and no larger than 3000px wide and tall.  If you do not choose an 
 episode cover, your default podcast artwork will be used.
 
 ### Title
 
-Enter the name for your new episode.  Do not add the season or episode number in the Title field.  Choose a clear 
+Enter the name for your new episode.  Do not add the season or episode number in the **Title** field.  Choose a clear 
 and concise episode name to help your listeners.
 
 ### Permalink
@@ -32,10 +32,10 @@ You can optionally add a season and / or episode number to your episode.
 
 ## Show Notes
 
-Describe your episode in detail.  You can use up to 4000 characters and you can use Markdown to style your show 
+Describe your episode in detail.  You can use up to 4000 characters, and you can use Markdown to style your show 
 notes.  You can expand the text box by pressing and holding the bottom right corner of the text box.
 
-When your show notes are complete, press Preview to view how your show notes will be displayed.
+When your show notes are complete, press `Preview` to view how your show notes will be displayed.
 
 ## Additional Files
 
@@ -43,7 +43,7 @@ When your show notes are complete, press Preview to view how your show notes wil
 
 You can add a transcript to your episode by choosing a file in SRT or VTT format to upload.  Transcripts will be 
 shown in a tab on the episode page and some podcast apps such as Apple Podcasts can display the transcript.  
-Transcripts help with users who may have a hearing disability and can also help with search engine optimization.
+Transcripts help users who may have a hearing disability and can also help with search engine optimization.
 
 ### Chapters
 
@@ -52,6 +52,6 @@ correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-or
 
 ## Publish your episode
 
-When complete, press the Create episode button at the bottom of the page.  Your RSS feed will be automatically 
+When complete, press the `Create episode` button at the bottom of the page.  Your RSS feed will be automatically 
 updated with your episode information and listeners who subscribe will be notified of a new episode.  Congratulations 
 on publishing your first episode!
