@@ -52,7 +52,7 @@ correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-or
 
 !!! note
     Not all podcast players natively support chapters in JSON format.  More modern players, such as Fountain and 
-    Apple podcasts, do support chapters in JSON format.
+    Apple Podcasts, do support chapters in JSON format.
 
 ## Publish your episode
 

@@ -96,7 +96,7 @@ correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-or
 
 !!! note
     Not all podcast players natively support chapters in JSON format.  More modern players, such as Fountain and 
-    Apple podcasts, do support chapters in JSON format.  Chapters do not allow you to click to select the chapter 
+    Apple Podcasts, do support chapters in JSON format.  Chapters do not allow you to click to select the chapter 
     in Castopod's embeddable player at this time.
 
 ## Publish your episode
