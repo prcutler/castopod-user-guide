@@ -841,7 +841,7 @@
         
   
   <span class="md-ellipsis">
-    Manage Fediverse Blocks
+    Fediverse
   </span>
   
 
@@ -1520,7 +1520,9 @@
 
 
 <h1 id="create-or-import-a-podcast">Create or import a podcast</h1>
-<p>You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.</p>
+<p>You can create a new podcast or import an existing podcast into Castopod in the Podcasts section.  If you are adding 
+a second podcast to Castopod, see the <a href="../../website/home/">Home page documentation</a> for how that will change your 
+home page.</p>
 <p>From the left hand navigation sidebar, press the <code>+</code> sign to the right of Podcasts to create your first podcast.</p>
 <h2 id="podcast-identity">Podcast Identity</h2>
 <h3 id="podcast-cover">Podcast Cover</h3>
@@ -1551,9 +1553,9 @@ sequential order.</p>
 <h3 id="other-categories-optional">Other categories (optional)</h3>
 <p>You can choose a second category in addition to the main category you set up.</p>
 <h3 id="parental-advisory">Parental advisory</h3>
-<p>Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone.<br />
-You can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
-opportunity to choose clean, explicit, or undefined on a per episode basis.</p>
+<p>Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone. You 
+can also choose to leave this category as undefined.  When <a href="../../podcast/episodes/">creating a new episode</a>, 
+you will also have the opportunity to choose clean, explicit, or undefined on a per episode basis.</p>
 <h2 id="author">Author</h2>
 <h3 id="owner-name-and-email">Owner name and email</h3>
 <p>Enter the owner name and email in the provided fields.  This is only visible in the RSS feed and is used by other 
@@ -1565,7 +1567,7 @@ from the public RSS feed by using the provided toggle.</p>
 <p>You can optionally add the copyright holder in this field.</p>
 <h3 id="fediverse-identity">Fediverse identity</h3>
 <p>Enter the handle (or nickname) for your podcast.  This will allow people on Mastodon and other Fediverse services 
-to follow your podcast.  Your handle will be shown as @handle@yourdomain.com on the Fediverse.  </p>
+to follow your podcast.  Your handle will be shown as @yourdomain.com@handle on the Fediverse.  </p>
 <p>To learn more about Fediverse integration, visit the <a href="../fediverse/">Fediverse documentation page</a>.</p>
 <h3 id="podcast-banner">Podcast banner</h3>
 <p>Upload a banner image to be displayed at the top of your podcast's home page.  The banner must have a 3:1 ration and 
@@ -1578,17 +1580,19 @@ and you can still choose to make some episodes, trailers, or bonus content as fr
 you toggle this to enabled, you will be able to view analytics for your podcast over time including the number of 
 listens over time, episode comparison charts, and more.</p>
 <h2 id="location">Location</h2>
-<p>You can optionally add a real or fictitious location name in this field.  When creating a new episode, you also can 
-add a location to an individual episode.</p>
+<p>You can optionally add a real or fictitious location name in this field.  When 
+<a href="../../podcast/episodes/">creating a new episode</a> you also can add a location to an individual episode.</p>
 <h2 id="advanced-parameters">Advanced Parameters</h2>
-<p>You can optinally toggle the following settings: 
-* <strong>Prevent podcast from being copied</strong>:  this locks your podcast and does not allow other podcast platforms to import 
+<p>You can optinally toggle the following settings: </p>
+<ul>
+<li><strong>Prevent podcast from being copied</strong>:  this locks your podcast and does not allow other podcast platforms to import 
 your podcast.  If you decide in the future to migrate away from Castopod to a new platform, this toggle will need to be
-unchecked.
-* <strong>Podcast should be hidden from public catalogues</strong>: If toggled, a best effort is made to hide the entire podcast from 
-appearing in Apple Podcasts, YouTube Music, and any other third party podcast apps.  (Not guaranteed)
-* <strong>Podcast will not be having new episodes</strong>:  If your podcast comes to an end, you can toggle this to let listeners 
-know there will not be new episodes.</p>
+unchecked.</li>
+<li><strong>Podcast should be hidden from public catalogues</strong>: If toggled, a best effort is made to hide the entire podcast from 
+appearing in Apple Podcasts, YouTube Music, and any other third party podcast apps.  (Not guaranteed)</li>
+<li><strong>Podcast will not be having new episodes</strong>:  If your podcast comes to an end, you can toggle this to let listeners 
+know there will not be new episodes.</li>
+</ul>
 <h2 id="import-an-existing-podcast">Import an existing podcast</h2>
 <p>When importing a podcast, make sure you own the rights for this podcast before importing it. 
 Copying and broadcasting a podcast without the proper rights is piracy and is liable to prosecution.</p>
@@ -1599,12 +1603,12 @@ to fail.  One popular feed validator is <a href="https://www.castfeedvalidator.c
 Blubrry Podcasting.</p>
 <h3 id="podcast-information">Podcast information</h3>
 <p>Enter the handle for your podcast.  This will be part of the URL for others to interact with your podcast on the 
-Fediverse.  It will be yourdomain.com/@nameofyourpodcast.</p>
+Fediverse.  It will be yourdomain.com@nameofyourpodcast.</p>
 <p>Choose the language your podcast is recorded in from the drop down box.</p>
 <p>Lastly, choose the Category of your podcast, such as Sports, Technology, Arts, etc.</p>
 <p>When complete, click Add import to queue.  You will then be redirected to a Podcast imports page to view the status 
 of the import.  You can refresh the page to see the status of the import including the import duration and how many 
-episodes were imported.</p>
+episodes were imported when complete.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>If your import times out, check your <code>max_execution_time</code> in your <code>PHP.ini</code> file.  You may need to increase it 
