@@ -11,7 +11,8 @@ You can view the [Castopod User Guide here](https://prcutler.github.io/castopod-
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify the 
-Castopod User Guide.
+Castopod User Guide.  If you are not comfortable using git and GitHub and find an error, you can also [open 
+a new issue](https://github.com/prcutler/castopod-user-guide/issues).
 
 Imposter syndrome disclaimer: I want your help. No really, I do.
 

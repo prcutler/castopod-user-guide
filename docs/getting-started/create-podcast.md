@@ -48,8 +48,8 @@ You can choose a second category in addition to the main category you set up.
 
 ### Parental advisory
 
-Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone.  
-You can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
+Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone. You 
+can also choose to leave this category as undefined.  When creating a new episode, you will also have the 
 opportunity to choose clean, explicit, or undefined on a per episode basis.
 
 ## Author
@@ -71,7 +71,7 @@ You can optionally add the copyright holder in this field.
 ### Fediverse identity
 
 Enter the handle (or nickname) for your podcast.  This will allow people on Mastodon and other Fediverse services 
-to follow your podcast.  Your handle will be shown as @handle@yourdomain.com on the Fediverse.  
+to follow your podcast.  Your handle will be shown as @yourdomain.com@handle on the Fediverse.  
 
 To learn more about Fediverse integration, visit the [Fediverse documentation page](../instance/fediverse.md).
 
