@@ -52,6 +52,22 @@ correct format, visit the [Podcast Namespace](https://github.com/Podcastindex-or
 
 ## Publish your episode
 
-When complete, press the `Create episode` button at the bottom of the page.  Your RSS feed will be automatically 
-updated with your episode information and listeners who subscribe will be notified of a new episode.  Congratulations 
-on publishing your first episode!
+When complete, press the `Create episode` button at the bottom of the page.  You will be automatically directed to 
+the next step to publish your episode.  Your episode is in draft mode and is not yet published.  You can preview 
+how your episode will look when published or publish your episode. To publish your episode, press the `Publish` button 
+in the upper right hand corner.
+
+### Create your announcement post
+
+After pressing `Publish` you will be directed to the next page to draft your announcement post.  Write your message 
+in the text box provided.  This will be the message broadcast to the Fediverse and published on your podcast's home 
+page.
+
+### Publication date
+
+Choose `Now` or `Schedule` to publish your episode.  If you choose `Now`, your episode will be live.  Or you can 
+schedule the day and time to publish your episode by choosing the `Schedule` radio button and choosing the day and 
+time.  Press `Publish` to finish.
+
+Your RSS feed will be automatically updated with your episode information and listeners who subscribe will be 
+notified of a new episode.  Congratulations on publishing your first episode!
