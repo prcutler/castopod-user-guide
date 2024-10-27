@@ -99,6 +99,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#users" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -579,6 +584,19 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Users
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -589,6 +607,34 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adding-a-user-to-the-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adding a User to the instance
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -975,6 +1021,25 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adding-a-user-to-the-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adding a User to the instance
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -992,9 +1057,17 @@
   
 
 
-  <h1>Users</h1>
-
-
+<h1 id="users">Users</h1>
+<p>Roles and permissions in Castopod are defined in two ways, <strong>Instance</strong> users and 
+<a href="../../podcast/contributors/"><strong>Podcast</strong>. contributors</a>.</p>
+<h2 id="adding-a-user-to-the-instance">Adding a User to the instance</h2>
+<p>You can add a user to your instance by choosing <code>Users</code> -&gt; <code>New User</code> from the left hand navigation menu.  There 
+are three roles you can assign to an instance user:</p>
+<ul>
+<li><strong>Super Admin</strong>: This user has complete control over Castopod including adding or removing podcasts or users.</li>
+<li><strong>Manager</strong>: This user can manage Castopod's content, such as adding a new podcast or episodes.</li>
+<li><strong>Podcaster</strong>: This is for general users of Castopod who can access the admin interface.</li>
+</ul>
 
 
 
