@@ -13,7 +13,7 @@ cover art needs to be in JPG or PNG format and a minimum of 1400px wide and tall
 tall.
 
 ### Title
-Enter the name of your podcast in the Title field.
+Enter the name of your podcast in the **Title** field.
 
 ### Description
 
@@ -22,17 +22,17 @@ pressing and holding the bottom right hand corner of the text box.
 
 ### Type
 
-Choose how your listeners should listen to your podcast.  Episodic lets listeners know they can consume your podcast 
-in any order, such as an interview podcast.  Choose Serial if your episodes are meant to be listened to in 
+Choose how your listeners should listen to your podcast.  **Episodic** lets listeners know they can consume your podcast 
+in any order, such as an interview podcast.  Choose **Serial** if your episodes are meant to be listened to in 
 sequential order.
 
 ### Medium
 
 Choose the type of audio for your podcast:
 
-* Podcast: a standard podcast.
-* Music: A feed of music organized into an "album" with each item a song within the album.
-* Audiobook: A specific type of audio with one item per feed, or where items represent chapters within a book.
+* **Podcast**: a standard podcast.
+* **Music**: A feed of music organized into an "album" with each item a song within the album.
+* **Audiobook**: A specific type of audio with one item per feed, or where items represent chapters within a book.
 
 ## Classification
 
@@ -50,7 +50,7 @@ You can choose a second category in addition to the main category you set up.
 
 ### Parental advisory
 
-Choose if your podcast has explicit content or swearing or choose Clean if your podcast is suitable for everyone.  
+Choose if your podcast has explicit content or swearing or choose **Clean** if your podcast is suitable for everyone.  
 You can also choose to leave this category as undefined.
 
 ## Author
@@ -99,12 +99,12 @@ You can optionally add a real or fictitious location name in this field.
 ## Advanced Parameters
 
 You can optinally toggle the following settings: 
-* Prevent podcast from being copied:  this locks your podcast and does not allow other podcast platforms to import 
+* **Prevent podcast from being copied**:  this locks your podcast and does not allow other podcast platforms to import 
 your podcast.  If you decide in the future to migrate away from Castopod to a new platform, this toggle will need to be
 unchecked.
-* Podcast should be hidden from public catalogues: If toggled, a best effort is made to hide the entire podcast from 
+* **Podcast should be hidden from public catalogues**: If toggled, a best effort is made to hide the entire podcast from 
 appearing in Apple Podcasts, YouTube Music, and any other third party podcast apps.  (Not guaranteed)
-* Podcast will not be having new episodes:  If your podcast comes to an end, you can toggle this to let listeners 
+* **Podcast will not be having new episodes**:  If your podcast comes to an end, you can toggle this to let listeners 
 know there will not be new episodes.
 
 ## Import an existing podcast
@@ -114,7 +114,7 @@ Copying and broadcasting a podcast without the proper rights is piracy and is li
 
 ### Import the podcast
 
-To import a podcast, enter the podcast's Feed URL.  The feed must be in XML or RSS format.  You may want to validate 
+To import a podcast, enter the podcast's **Feed URL**.  The feed must be in XML or RSS format.  You may want to validate 
 the feed to make sure there are no errors in the RSS or XML feed prior to importing as errors may cause the import 
 to fail.  One popular feed validator is [Cast Feed Validator](https://www.castfeedvalidator.com) from 
 Blubrry Podcasting.
