@@ -13,3 +13,14 @@ individual podcast.
 Find out how to add your first podcast and create an episode in [Getting Started](../getting-started/).  
 Or visit the sections below to learn more about the different settings in your instance.
 
+### [Create or import a podcast](add-podcast.md)
+
+### [Manage the people involved with your podcast](persons.md)
+
+### [Manage Fediverse integration](fediverse.md)
+
+### [Manage users who can access the admin interface](users.md)
+
+### [Add additional web pages](pages.md)
+
+### [Manage settings](settings.md)
