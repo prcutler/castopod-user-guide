@@ -29,6 +29,8 @@ press `Add person(s)`.
 
 A list of all people assigned roles will be displayed.  You can remove them by pressing the `Remove` button.
 
+Adding persons to your podcast populates the Credits page linked from your [home page](../website/index.md).
+
 ## Podcast imports
 
 Podcast imports show you the status of a feed that you imported into Castopod, including the feed name,
