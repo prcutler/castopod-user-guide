@@ -47,7 +47,7 @@ Two bar graphs displaying the week day and time of day your listeners listen to 
 
 You can view four pie charts showing weekly information about web page visits:
 
-* Web page visits by source
-* Web page visits by source
+* Web page visits by source (for the past week)
+* Web page visits by source (for the past year)
 * Web page visits by landing page
 * Web page visits by browser
