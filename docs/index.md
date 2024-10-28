@@ -30,4 +30,5 @@ be used on any website.
 The Castopod User Guide is a community project  created by [Paul Cutler](https://hachyderm.io/@prcutler) and 
 is not affiliated with the official Castopod project.
 
-The Castopod User Guide is licensed under a Creative Commons BY-SA 4.0 license.
+The Castopod User Guide is licensed under a 
+[Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
